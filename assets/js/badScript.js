@@ -3,7 +3,7 @@ var seg = 1; //la variable no puede nombrarse con número
 var second = 1; //el valor númerico no puede llevar letras
 
 // Why doesn't it work?
-var ifCondition =  if; //No se puede utilizar palabras reservadas // Se usa comelCase
+// var ifCondition =  if; //No se puede utilizar palabras reservadas // Se usa comelCase
 
 
 // Should equal formula for wild wings

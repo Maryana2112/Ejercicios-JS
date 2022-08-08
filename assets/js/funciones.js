@@ -118,4 +118,4 @@ const Conejo = {
     "peso":500
 }
 
-const myFunc = () => ();
+// const myFunc = () => ();
